@@ -1,0 +1,39 @@
+.cont{
+    height: 170px;
+    width: 200px;
+    background-color: black;
+    border: 2px solid black;
+}
+
+#div{
+    background-color: red;
+    color: white;
+}
+
+#btn{
+    background-color: red;
+    color: white;
+}
+
+#products{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(204, 177, 177);
+    height: 800px;
+    width: 1300px;
+
+    
+}
+
+#img{
+    height: 200px;
+    width: 200px;
+}
+
+#products{
+gap: 20px;
+ 
+    
+}
+
